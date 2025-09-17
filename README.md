@@ -17,5 +17,3 @@ vendor/bin/phpunit tests/ReverseLettersTest.php
 - src/ReverseLetters.php — реализация
 - tests/ReverseLettersTest.php — PHPUnit тесты
 
-
-# ReverseLetters
